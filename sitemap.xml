@@ -4,11 +4,11 @@
 
    <url>
 
-      <loc>http://www.example.com/</loc>
+      <loc>liensite</loc>
 
       <lastmod>2019-12-01</lastmod>
 
-      <changefreq>monthly</changefreq>
+      <changefreq>yearly</changefreq>
 
       <priority>1</priority>
 
